@@ -9,6 +9,6 @@ Dataset which was used to train the ResNet
 2. At least 400 video clips per class (downloaded via YouTube)
 3. A total of 300,000 videos
 
-#Accuracy
+# Accuracy
 Our human activity recognition model can recognize over 400 activities with 78.4-94.5% accuracy (depending on the task).
 
